@@ -1,13 +1,13 @@
 # Random Number Generator
-Project Overview
-This Random Number Generator is a PHP-based web application that allows users to generate random numbers within specified bounds. It features a user-friendly interface for entering the range, viewing results, and analyzing the distribution of generated numbers.
+## Project Overview
+This Random Number Generator is a PHP-based web application that allows users to generate random numbers within specified bounds. It features a user-friendly interface for entering the range, viewing results, and analyzing the distribution of generated numbers. This was a short skills test for a recruiter to ensure that I understand the basics of web development. 
 
 ## Technologies Used
-PHP: Server-side scripting language used for backend logic.
-JavaScript: Used for dynamic interactions on the client side, such as handling button clicks and updating the UI without reloading the page.
-Bootstrap: For responsive and modern UI components.
-Plotly.js: Utilized for rendering interactive graphs to visualize the distribution of generated numbers.
-PHPUnit: Employed for unit testing PHP code to ensure functionality works as expected.
+- PHP: Server-side scripting language used for backend logic.
+- JavaScript: Used for dynamic interactions on the client side, such as handling button clicks and updating the UI without reloading the page.
+- Bootstrap: For responsive and modern UI components.
+- Plotly.js: Utilized for rendering interactive graphs to visualize the distribution of generated numbers.
+- PHPUnit: Employed for unit testing PHP code to ensure functionality works as expected.
 # Local Setup and Serving
 To run this project locally, follow these steps:
 
