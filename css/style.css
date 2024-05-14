@@ -34,29 +34,6 @@
     }
 }
 
-.btn-primary {
-    background-color: #1c7237;
-    border-color: #abf1c1;
-}
-
-.btn-primary:hover {
-    background-color: #abf1c1;
-    border-color: #1c7237;
-    color: #1c7237;
-}
-
-.btn-secondary {
-    background-color: #abf1c1;
-    border-color: #1c7237;
-    color: #1c7237;
-}
-
-.btn-secondary:hover {
-    background-color: #1c7237;
-    border-color: #abf1c1;
-    color: #abf1c1;
-}
-
 .btn-group-centered {
     display: flex;
     justify-content: center;
