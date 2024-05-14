@@ -1,6 +1,6 @@
 # Random Number Generator
-Project Overview
-This Random Number Generator is a PHP-based web application that allows users to generate random numbers within specified bounds. It features a user-friendly interface for entering the range, viewing results, and analyzing the distribution of generated numbers.
+## Project Overview
+This Random Number Generator is a PHP-based web application that allows users to generate random numbers within specified bounds. It features a user-friendly interface for entering the range, viewing results, and analyzing the distribution of generated numbers. This was a short skills test for a recruiter to ensure that I understand the basics of web development. 
 
 ## Technologies Used
 - PHP: Server-side scripting language used for backend logic.
